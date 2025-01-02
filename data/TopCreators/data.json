@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "bgImg": "/creators/3.jpg",
+    "userImg": "/users/4.png",
+    "name": "Harmeet Chavda",
+    "items": "17"
+  },
+  {
+    "id": 2,
+    "bgImg": "/creators/1.jpg",
+    "userImg": "/users/1.jpg",
+    "name": "David Roy",
+    "items": "58"
+  },
+  {
+    "id": 3,
+    "bgImg": "/creators/2.jpg",
+    "userImg": "/users/2.jpg",
+    "name": "Mark Wahlberg",
+    "items": "43"
+  },
+  {
+    "id": 4,
+    "bgImg": "/creators/5.jpg",
+    "userImg": "/users/3.jpg",
+    "name": "Elon Musk",
+    "items": "67"
+  },
+  {
+    "id": 5,
+    "bgImg": "/creators/4.jpg",
+    "userImg": "/users/4.png",
+    "name": "Jason Smith",
+    "items": "32"
+  }
+]

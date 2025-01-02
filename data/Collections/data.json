@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nftImg1": "/nft-img/1.jpg",
+    "nftImg2": "/nft-img/2.jpg",
+    "nftImg3": "/nft-img/3.jpg",
+    "userImg": "/users/1.jpg",
+    "name": "@ Harmeet Chavda",
+    "title": "Colorful Abstract Painting",
+    "items": "17"
+  },
+  {
+    "id": 2,
+    "nftImg1": "/nft-img/4.jpg",
+    "nftImg2": "/nft-img/5.jpg",
+    "nftImg3": "/nft-img/6.jpg",
+    "userImg": "/users/3.jpg",
+    "name": "@ Elon Musk",
+    "title": "Graphics for Games",
+    "items": "59"
+  },
+  {
+    "id": 3,
+    "nftImg1": "/nft-img/7.jpg",
+    "nftImg2": "/nft-img/8.jpg",
+    "nftImg3": "/nft-img/9.jpg",
+    "userImg": "/users/4.png",
+    "name": "@ Json Smith",
+    "title": "Colorful Abstract Painting",
+    "items": "43"
+  }
+]
